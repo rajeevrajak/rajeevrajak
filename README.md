@@ -1,4 +1,4 @@
-![logo](https://github.com/rajeevbaitha/rajeevbaitha/blob/main/LINKEDIN.png)
+![logo](https://github.com/rajeevrajak/rajeevrajak/blob/main/ba-1.png)
 <h1 align="center">Hi 👋, I'm Rajeev Rajak</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
