@@ -79,8 +79,16 @@
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
   
-  
 </p>
+
+
+
+## 📝 PROJECT's ZONE
+
+-  MyCodingProfiles [**🔗**](https://mycodingprofiles.netlify.app/)  
+-  DEV DETECTIVE APP [**🔗**](https://devdetectiveapi.netlify.app/) 
+-  TIC TAC TOC [**🔗**](https://tic-tac-toc-game-app.netlify.app/)
+-  PLAN WITH [**🔗**](https://planwithrajeev.netlify.app) 
 
 <!-- Me -->
 
