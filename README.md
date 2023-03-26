@@ -1,13 +1,10 @@
 ![logo](https://github.com/rajeevrajak/rajeevrajak/blob/main/ba-1.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Rajeev Rajak</b>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevrajak&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevrajak" /> </p>
-
-</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Rajeev Rajak</b></h1>
 
 
 
-<h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and Web Developer from India 🏳️‍🌈</b></h2>
+<h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and Web Developer from India </b></h2>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -95,26 +92,18 @@
 -  DEV DETECTIVE APP [**🔗**](https://devdetectiveapi.netlify.app/) 
 -  TIC TAC TOC [**🔗**](https://tic-tac-toc-game-app.netlify.app/)
 -  PLAN WITH [**🔗**](https://planwithrajeev.netlify.app) 
+    <br>
+    #gh-dark-mode-only
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevrajak&" alt="rajeevrajak"/></p>
 
-<!-- Me -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajeevraushann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeevraushann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-rajak-683ab323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-rajak-683ab323b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rajeevrajak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajeevrajak07" height="30" width="40" /></a>
-<a href="https://instagram.com/@rajeevraushan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rajeevraushan66" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hello the life of travel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello the life of travel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@rajeevraushanstm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rajeevraushanstm" height="30" width="40" /></a>
-</p>
-
-
+<br>
 
 <!--  new -->
-##
+## 📊 My Github Stats
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeevrajak" alt="rajeevrajak" /></a> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -124,4 +113,26 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevrajak&show_icons=true&locale=en" alt="rajeevrajak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevrajak&" alt="rajeevrajak" /></p>
+<br>
+
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
+
+
+## 📧 Connect with me:
+<p align="left">
+<a href="https://twitter.com/rajeevraushann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeevraushann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-rajak-683ab323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-rajak-683ab323b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rajeevrajak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajeevrajak07" height="30" width="40" /></a>
+<a href="https://instagram.com/@rajeevraushan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rajeevraushan66" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hello the life of travel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello the life of travel" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/@rajeevraushanstm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rajeevraushanstm" height="30" width="40" /></a>
+</p>
+
+## ❤ Views and Followers
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevrajak&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevrajak" /> </p>
+
