@@ -80,6 +80,7 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   
 </p>
 
