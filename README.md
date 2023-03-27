@@ -42,7 +42,7 @@
 
 ## 🏆 Achievements
 ✅ I have solved almost 400+ DSA Problems on, Different-Different Coding Platforms.  <br>
-✅ 300𝐃𝐚𝐲𝐬+ 𝐨𝐧 @GeeksForGeeks <br>
+✅ 200𝐃𝐚𝐲𝐬+ 𝐨𝐧 @GeeksForGeeks <br>
 ✅ 20𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
 ✅ 15𝐃𝐚𝐲𝐬+ 𝐨𝐧 @LeetCode <br>
 ✅ Problem Solving ⭐ <br>
