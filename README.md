@@ -43,9 +43,8 @@
 ## 🏆 Achievements
 ✅ I have solved almost 400+ DSA Problems on, Different-Different Coding Platforms.  <br>
 ✅ 300𝐃𝐚𝐲𝐬+ 𝐨𝐧 @GeeksForGeeks <br>
-✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
-✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
-✅ 20𝐃𝐚𝐲𝐬+ 𝐨𝐧 @LeetCode <br>
+✅ 20𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 15𝐃𝐚𝐲𝐬+ 𝐨𝐧 @LeetCode <br>
 ✅ Problem Solving ⭐ <br>
 ✅ LeetCode 20+ Problem Solved <br>
 ✅ GeeksForGeeks 300+ Problem Solved || 584+ Coding Score || 5st Rank in Institue  <br>
@@ -117,7 +116,7 @@
 
 ## 📈 Graph
 <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/rajeevrajak/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
