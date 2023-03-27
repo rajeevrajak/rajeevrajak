@@ -22,7 +22,7 @@
 - 🔭 I’m Currently Studing in **3rd Year**
 - 📘 I’m Currently learning **Full 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ For Fun **I play games and interested in  field of software **
+- ⚡ For Fun I play games and interested in  field of software **
 - 📫 How to reach me **rajeevraushanstm@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/rajeev-rajak-683ab323b/)
 
@@ -93,7 +93,7 @@
 -  TIC TAC TOC [**🔗**](https://tic-tac-toc-game-app.netlify.app/)
 -  PLAN WITH [**🔗**](https://planwithrajeev.netlify.app) 
     <br>
-    #gh-dark-mode-only
+ 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevrajak&" alt="rajeevrajak"/></p>
 
 <br>
