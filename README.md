@@ -49,10 +49,10 @@
 ✅ LeetCode 20+ Problem Solved <br>
 ✅ GeeksForGeeks 300+ Problem Solved || 584+ Coding Score || 5st Rank in Institue  <br>
 ✅ CodeStudio 40+ Problem Solved || EXP Gained 1236 || Level - 5(Champion) <br>
+✅ CodeChef 05+ Problem Solved <br>
 ✅ InterviewBit  <br>
 ✅ HackerRank  <br>
 ✅ HackerEarth  <br>
-✅ CodeChef 05+ Problem Solved <br>
 ✅ CodeForces  <br>
 
 
@@ -60,11 +60,13 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/100/000000/external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/arcade/100/000000/js.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/3d-fluency/100/null/database.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
@@ -80,7 +82,10 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/100/null/tailwind_css.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color-glass/100/000000/operating-system.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
   
 </p>
 
