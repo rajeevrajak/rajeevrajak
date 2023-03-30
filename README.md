@@ -130,8 +130,11 @@
 
 ## 📧 Connect with me:
 <p align="left">
-<a href="https://twitter.com/rajeevraushann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeevraushann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-rajak-683ab323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-rajak-683ab323b/" height="30" width="40" /></a>
+    
+ <a href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D"> <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
+    
+<a href="https://twitter.com/rajeevraushann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeevraushann" height="30" width="40" /></a>    
+    
 <a href="https://fb.com/https://www.facebook.com/rajeevrajak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajeevrajak07" height="30" width="40" /></a>
 <a href="https://instagram.com/@rajeevraushan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rajeevraushan66" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hello the life of travel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello the life of travel" height="30" width="40" /></a>
