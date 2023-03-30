@@ -120,25 +120,30 @@
 
 <br>
 
-## 📈 Graph
+<!-- ## 📈 Graph
 <p align="center">
    <img src="https://github.com/rajeevrajak/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-
+</p> -->
 
 
 ## 📧 Connect with me:
 <p align="left">
     
- <a href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D"> <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D">  <img src="https://img.icons8.com/color/60/null/linkedin.png" target="blank"/></a>
     
-<a href="https://twitter.com/rajeevraushann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeevraushann" height="30" width="40" /></a>    
+ <a href="https://github.com/rajeevrajak">  
+ <img src="https://img.icons8.com/color/60/null/github--v1.png" target="blank"/></a>
     
-<a href="https://fb.com/https://www.facebook.com/rajeevrajak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajeevrajak07" height="30" width="40" /></a>
-<a href="https://instagram.com/@rajeevraushan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rajeevraushan66" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hello the life of travel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello the life of travel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@rajeevraushanstm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rajeevraushanstm" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/im_rajeev_rajak/">
+ <img src="https://img.icons8.com/color/60/null/instagram-new--v1.png" target="blank"/></a>
+    
+  <a href="https://www.facebook.com/rajeevrajak07/"> <img src="https://img.icons8.com/color/60/null/facebook-new.png" target="blank"/> </a>  
+    
+  <a href="https://twitter.com/RajeevRzk"> <img src="https://img.icons8.com/color/60/null/twitter--v4.png" target="blank"/> </a>  
+    
+  <a href="https://www.youtube.com/channel/UCCk2LiADCyN8rMq_X8g-OmQ"> <img src="https://img.icons8.com/color/60/null/youtube-play.png"/> </a>
+    
+
 </p>
 
 ## ❤ Views and Followers
