@@ -126,24 +126,26 @@
 </p> -->
 
 
-## 📧 Connect with me:
-<p align="left">
-    
- <a target="_blank" href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
-    
- <a href="https://github.com/rajeevrajak">  
- <img src="https://img.icons8.com/color/60/null/github--v1.png" target="_blank"/></a>
-    
- <a href="https://www.instagram.com/im_rajeev_rajak/">
- <img src="https://img.icons8.com/color/60/null/instagram-new--v1.png" target="blank"/></a>
-    
-  <a href="https://www.facebook.com/rajeevrajak07/"> <img src="https://img.icons8.com/color/60/null/facebook-new.png" target="blank"/> </a>  
-    
-  <a href="https://twitter.com/RajeevRzk"> <img src="https://img.icons8.com/color/60/null/twitter--v4.png" target="blank"/> </a>  
-    
-  <a href="https://www.youtube.com/channel/UCCk2LiADCyN8rMq_X8g-OmQ"> <img src="https://img.icons8.com/color/60/null/youtube-play.png"/> </a>
-    
+## 📧 Connect With Me:
 
+<p align="left">  
+ <a href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D"    target="_blank">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
+    
+  <a href="https://github.com/rajeevrajak" target="_blank">  
+  <img src="https://img.icons8.com/color/60/null/github--v1.png"/></a>
+    
+  <a href="https://www.instagram.com/im_rajeev_rajak/" target="_blank">
+  <img src="https://img.icons8.com/color/60/null/instagram-new--v1.png"/></a>
+    
+  <a href="https://www.facebook.com/rajeevrajak07/" target="_blank"> 
+  <img src="https://img.icons8.com/color/60/null/facebook-new.png"/> </a>  
+    
+  <a href="https://twitter.com/RajeevRzk" target="_blank"> 
+  <img src="https://img.icons8.com/color/60/null/twitter--v4.png"/> </a>  
+    
+  <a href="https://www.youtube.com/channel/UCCk2LiADCyN8rMq_X8g-OmQ" target="_blank">
+  <img src="https://img.icons8.com/color/60/null/youtube-play.png"/> </a>
+    
 </p>
 
 ## ❤ Views and Followers
