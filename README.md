@@ -129,7 +129,7 @@
 ## 📧 Connect with me:
 <p align="left">
     
- <a href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D" target="_blank">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/rajeev-rajak-683ab323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOqw2Pe1OSM%2B3jzhB0Y4ldg%3D%3D">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
     
  <a href="https://github.com/rajeevrajak">  
  <img src="https://img.icons8.com/color/60/null/github--v1.png" target="_blank"/></a>
