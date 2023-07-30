@@ -19,7 +19,7 @@
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 📔 Live [**MyResume**](https://github.com/rajeevrajak/ResumeMe/blob/main/RAJEEV-RESUME-2023-1.pdf) 
 - 👨‍💻 Check My! [**CodingProfile**](https://mycodingprofiles.netlify.app/)
-- 🔭 I’m Currently Studing in **3rd Year**
+- 🔭 I’m Currently Studing in **4th Year**
 - 📘 I’m Currently learning **MERN 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ For Fun I play games and interested in  field of software **
